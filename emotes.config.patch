@@ -1,0 +1,216 @@
+[[
+  {
+    "op" : "test",
+    "path" : "/emoteBindings/idle/0",
+    "inverse" : true
+  },
+  {
+    "op" : "add",
+    "path" : "/emoteBindings/idle",
+    "value" : []
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/emoteBindings/blink/0",
+    "inverse" : true
+  },
+  {
+    "op" : "add",
+    "path" : "/emoteBindings/blink",
+    "value" : []
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/emoteBindings/sleep/0",
+    "inverse" : true
+  },
+  {
+    "op" : "add",
+    "path" : "/emoteBindings/sleep",
+    "value" : []
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/emoteBindings/eat/0",
+    "inverse" : true
+  },
+  {
+    "op" : "add",
+    "path" : "/emoteBindings/eat",
+    "value" : []
+  }
+],[
+  {
+    "op": "add",
+    "path": "/emoteBindings/happy/-",
+    "value": "*happy*"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/sad/-",
+    "value": "*cries*"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/sad/-",
+    "value": "*sad*"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/neutral/-",
+    "value": "*neutral*"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/laugh/-",
+    "value": "lol"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/laugh/-",
+    "value": "LOL"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/laugh/-",
+    "value": "*laugh*"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/laugh/-",
+    "value": "*laughs*"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/annoyed/-",
+    "value": "*annoyed*"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/annoyed/-",
+    "value": "*angry*"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/annoyed/-",
+    "value": "*angery*"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/oh/-",
+    "value": "*oh*"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/oh/-",
+    "value": "*ooh*"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/oh/-",
+    "value": "*surprised*"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/oh/-",
+    "value": "*impressed*"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/oooh/-",
+    "value": "*oooh*"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/oooh/-",
+    "value": "*scared*"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/wink/-",
+    "value": "*wink*"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/wink/-",
+    "value": "*winks*"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/wink/-",
+    "value": "*flirt*"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/wink/-",
+    "value": "*flirts*"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/idle/-",
+    "value": "(("
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/idle/-",
+    "value": "))"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/idle/-",
+    "value": "**"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/idle/-",
+    "value": "*idle*"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/blink/-",
+    "value": "*blink*"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/blink/-",
+    "value": "*blinks*"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/sleep/-",
+    "value": "*sleep*"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/sleep/-",
+    "value": "*sleeps*"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/eat/-",
+    "value": "*eat*"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/eat/-",
+    "value": "*eats*"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/eat/-",
+    "value": "*nom*"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/eat/-",
+    "value": "*nomnom*"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/eat/-",
+    "value": "!"
+  }
+]]

@@ -1,0 +1,45 @@
+[[
+  {
+    "op" : "test",
+    "path" : "/emoteBindings/idle/0",
+    "inverse" : true
+  },
+  {
+    "op" : "add",
+    "path" : "/emoteBindings/idle",
+    "value" : []
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/emoteBindings/blink/0",
+    "inverse" : true
+  },
+  {
+    "op" : "add",
+    "path" : "/emoteBindings/blink",
+    "value" : []
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/emoteBindings/sleep/0",
+    "inverse" : true
+  },
+  {
+    "op" : "add",
+    "path" : "/emoteBindings/sleep",
+    "value" : []
+  }
+],[
+  {
+    "op" : "test",
+    "path" : "/emoteBindings/eat/0",
+    "inverse" : true
+  },
+  {
+    "op" : "add",
+    "path" : "/emoteBindings/eat",
+    "value" : []
+  }
+]]

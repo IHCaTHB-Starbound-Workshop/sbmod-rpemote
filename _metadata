@@ -1,9 +1,9 @@
 {
   "author" : "IHCaTHB",
   "description" : "",
-  "friendlyName" : "",
+  "friendlyName" : "Role-Play Emotes",
   "includes" : [],
-  "name" : ".IHC",
+  "name" : "RPEMOTE.IHC",
   "requires" : [],
   "version" : "0.1"
 }

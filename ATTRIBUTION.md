@@ -1,4 +1,4 @@
-# sbmod-
+# sbmod-rpemote
 # attribution
 
 ## author

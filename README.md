@@ -1,6 +1,6 @@
 ![_previewimage]
 
-# sbmod-
+# sbmod-rpemote
 # readme
 
 Project licensed under a modified [MIT license], file included.

@@ -1,6 +1,9 @@
 # sbmod-rpemote
 # changelog
 
+### vur
++ sad: *feels*
+
 ### v0.1 2017-07-16
 + happy: *happy*
 + sad: *cries*, *sad*

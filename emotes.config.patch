@@ -60,6 +60,11 @@
   },
   {
     "op": "add",
+    "path": "/emoteBindings/sad/-",
+    "value": "*feels*"
+  },
+  {
+    "op": "add",
     "path": "/emoteBindings/neutral/-",
     "value": "*neutral*"
   },

@@ -1,31 +1,11 @@
 {
   "author" : "IHCaTHB",
-  "description" : "^#5aa9d6;Adds a bunch of new triggers for existing emotes.^reset;
-
-Does not add any new kinds of emotes, just new triggers for existing emotes.
-
-happy: *happy*
-sad: *cries*, *sad*
-neutral: *neutral*
-laugh: lol, LOL, *laugh*, *laughs*
-annoyed: *annoyed*, *angry*, *angery*
-oh: *oh*, *ooh*, *surprised*, *impressed*
-oooh: *oooh*, *scared*
-wink: *wink*, *winks*, *flirt*, *flirts*
-blink: *blink*, *blinks*
-sleep: *sleep*, *sleeps*
-eat: *eat*, *eats*, *nom*, *nomnom*
-shout: *shout*, *shouts*, !
-
-IMPORTANT FEATURE: idle emote
-The idle emote allows for triggers to turn OFF any emote reaction that might be tied to their text bubble. The text will appear but your character won't speak or emote in any way. These triggers were chosen to match typical OOC flags and indicators of action descriptions.
-
-idle: ((, )), **
-
-For more, click the MEGATHREAD link from the steam page.",
+  "description" : "^#5aa9d6;Adds a bunch of new triggers for existing emotes.^reset;\n\nDoes not add any new kinds of emotes, just new triggers for existing emotes.\n\nhappy: *happy*\nsad: *cries*, *sad*\nneutral: *neutral*\nlaugh: lol, LOL, *laugh*, *laughs*\nannoyed: *annoyed*, *angry*, *angery*\noh: *oh*, *ooh*, *surprised*, *impressed*\noooh: *oooh*, *scared*\nwink: *wink*, *winks*, *flirt*, *flirts*\nblink: *blink*, *blinks*\nsleep: *sleep*, *sleeps*\neat: *eat*, *eats*, *nom*, *nomnom*\nshout: *shout*, *shouts*, !\n\nIMPORTANT FEATURE: idle emote\nThe idle emote allows for triggers to turn OFF any emote reaction that might be tied to their text bubble. The text will appear but your character won't speak or emote in any way. These triggers were chosen to match typical OOC flags and indicators of action descriptions.\n\nidle: ((, )), **\n\nFor more, click the MEGATHREAD link from the steam page.",
   "friendlyName" : "Role-Play Emotes",
   "includes" : [],
+  "link" : "steam://url/CommunityFilePage/1070172836",
   "name" : "RPEMOTE.IHC",
   "requires" : [],
+  "steamContentId" : "1070172836",
   "version" : "0.1"
 }

@@ -216,11 +216,11 @@
   {
     "op": "add",
     "path": "/emoteBindings/eat/-",
-    "value": *shout*
+    "value": "*shout*"
   },
   {
     "op": "add",
     "path": "/emoteBindings/eat/-",
-    "value": *shouts*
+    "value": "*shouts*"
   }
 ]]

@@ -2,7 +2,7 @@
 # changelog
 
 ### vur
-+ sad: *feels*
++ sad: *feels*, *depressed*
 
 ### v0.1 2017-07-16
 + happy: *happy*
@@ -17,4 +17,4 @@
 + sleep: *sleep*, *sleeps*
 + eat: *eat*, *eats*, *nom*, *nomnom*
 + shout: *shout*, *shouts*, !
-+ idle: ((, )), **
++ idle: ((, )), **, *idle*

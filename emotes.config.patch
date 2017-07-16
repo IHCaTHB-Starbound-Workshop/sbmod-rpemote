@@ -65,6 +65,11 @@
   },
   {
     "op": "add",
+    "path": "/emoteBindings/sad/-",
+    "value": "*depressed*"
+  },
+  {
+    "op": "add",
     "path": "/emoteBindings/neutral/-",
     "value": "*neutral*"
   },

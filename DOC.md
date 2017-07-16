@@ -18,6 +18,6 @@ eat: *eat*, *eats*, *nom*, *nomnom*
 shout: *shout*, *shouts*, !
 idle: ((, )), **
 
-##  backend
+## backend
 ### patches
 'emotes.config.patch'

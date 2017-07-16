@@ -2,9 +2,27 @@
 #ingame
 #######
 
-^#5aa9d6;titleflag^reset;
+^#5aa9d6;Adds a bunch of new triggers for existing emotes.^reset;
 
-bodyflag
+Does not add any new kinds of emotes, just new triggers for existing emotes.
+
+happy: *happy*
+sad: *cries*, *sad*
+neutral: *neutral*
+laugh: lol, LOL, *laugh*, *laughs*
+annoyed: *annoyed*, *angry*, *angery*
+oh: *oh*, *ooh*, *surprised*, *impressed*
+oooh: *oooh*, *scared*
+wink: *wink*, *winks*, *flirt*, *flirts*
+blink: *blink*, *blinks*
+sleep: *sleep*, *sleeps*
+eat: *eat*, *eats*, *nom*, *nomnom*
+shout: *shout*, *shouts*, !
+
+IMPORTANT FEATURE: idle emote
+The idle emote allows for triggers to turn OFF any emote reaction that might be tied to their text bubble. The text will appear but your character won't speak or emote in any way. These triggers were chosen to match typical OOC flags and indicators of action descriptions.
+
+idle: ((, )), **
 
 For more, click the MEGATHREAD link from the steam page.
 
@@ -12,9 +30,31 @@ For more, click the MEGATHREAD link from the steam page.
 #steam
 ######
 
-[h1]titleflag[/h1]
+[h1]Adds a bunch of new triggers for existing emotes.[/h1]
 
-bodyflag
+Does not add any new kinds of emotes, just new triggers for existing emotes.
+
+This mod could use expansion. If you have a suggestion please provide it! Suggestions should be new emote triggers, not new types of emotes.
+
+Here is the list of current triggers:
+
+happy: *happy*
+sad: *cries*, *sad*
+neutral: *neutral*
+laugh: lol, LOL, *laugh*, *laughs*
+annoyed: *annoyed*, *angry*, *angery*
+oh: *oh*, *ooh*, *surprised*, *impressed*
+oooh: *oooh*, *scared*
+wink: *wink*, *winks*, *flirt*, *flirts*
+blink: *blink*, *blinks*
+sleep: *sleep*, *sleeps*
+eat: *eat*, *eats*, *nom*, *nomnom*
+shout: *shout*, *shouts*, !
+
+IMPORTANT FEATURE: idle emote
+The idle emote allows for triggers to turn OFF any emote reaction that might be tied to their text bubble. The text will appear but your character won't speak or emote in any way. These triggers were chosen to match typical OOC flags and indicators of action descriptions.
+
+idle: ((, )), **
 
 [url=community.playstarbound.com/threads/124193/]MEGATHREAD[/url]
 [url=https://github.com/IHCaTHB-Starbound-Workshop/sbmod-rpemote/blob/master/CHANGELOG.md]CHANGELOG[/url]
@@ -25,12 +65,35 @@ version currently on Steam: 0.1
 #forum
 ######
 
-titleflag
+Adds a bunch of new triggers for existing emotes.
 
-bodyflag
+Does not add any new kinds of emotes, just new triggers for existing emotes.
+
+This mod could use expansion. If you have a suggestion please provide it! Suggestions should be new emote triggers, not new types of emotes.
+
+Here is the list of current triggers:
+
+happy: *happy*
+sad: *cries*, *sad*
+neutral: *neutral*
+laugh: lol, LOL, *laugh*, *laughs*
+annoyed: *annoyed*, *angry*, *angery*
+oh: *oh*, *ooh*, *surprised*, *impressed*
+oooh: *oooh*, *scared*
+wink: *wink*, *winks*, *flirt*, *flirts*
+blink: *blink*, *blinks*
+sleep: *sleep*, *sleeps*
+eat: *eat*, *eats*, *nom*, *nomnom*
+shout: *shout*, *shouts*, !
+
+IMPORTANT FEATURE: idle emote
+The idle emote allows for triggers to turn OFF any emote reaction that might be tied to their text bubble. The text will appear but your character won't speak or emote in any way. These triggers were chosen to match typical OOC flags and indicators of action descriptions.
+
+idle: ((, )), **
 
 [URL='http://community.playstarbound.com/threads/124193/']MEGATHREAD[/URL
 [URL='https://github.com/IHCaTHB-Starbound-Workshop/sbmod-rpemote/blob/master/CHANGELOG.md']CHANGELOG[/URL]
+Available on [URL='https://steamcommunity.com/sharedfiles/filedetails/?id=']Steam[/IMG].
 
 PERMISSIONS: granted per license, included in download.
 
@@ -38,4 +101,4 @@ PERMISSIONS: granted per license, included in download.
 #megathread
 ###########
 
-Standard (0.1) | [URL='https://steamcommunity.com/sharedfiles/filedetails/?id='][IMG]http://steamcommunity.com/favicon.ico[/IMG][/URL] [URL='http://community.playstarbound.com/resources//'][IMG]http://community.playstarbound.com/favicon.ico[/IMG][/URL] [URL='https://github.com/IHCaTHB-Starbound-Workshop/sbmod-rpemote/releases'][IMG]https://www.codeproject.com/script/Membership/Images/octicons_github.png[/IMG][/URL] | [URL='https://github.com/IHCaTHB-Starbound-Workshop/sbmod-rpemote/releases/download/0.1/sbmod-rpemote-0.1.pak'].pak[/URL] | [URL='https://github.com/IHCaTHB-Starbound-Workshop/sbmod-rpemote/blob/master/CHANGELOG.md']changelog[/URL] | [URL='https://github.com/IHCaTHB-Starbound-Workshop/sbmod-rpemote/blob/0.1/DOC.md']doc[/URL]
+RP emotes (0.1) | [URL='https://steamcommunity.com/sharedfiles/filedetails/?id='][IMG]http://steamcommunity.com/favicon.ico[/IMG][/URL] [URL='http://community.playstarbound.com/resources//'][IMG]http://community.playstarbound.com/favicon.ico[/IMG][/URL] [URL='https://github.com/IHCaTHB-Starbound-Workshop/sbmod-rpemote/releases'][IMG]https://www.codeproject.com/script/Membership/Images/octicons_github.png[/IMG][/URL] | [URL='https://github.com/IHCaTHB-Starbound-Workshop/sbmod-rpemote/releases/download/0.1/sbmod-rpemote-0.1.pak'].pak[/URL] | [URL='https://github.com/IHCaTHB-Starbound-Workshop/sbmod-rpemote/blob/master/CHANGELOG.md']changelog[/URL] | [URL='https://github.com/IHCaTHB-Starbound-Workshop/sbmod-rpemote/blob/0.1/DOC.md']doc[/URL]

@@ -212,5 +212,15 @@
     "op": "add",
     "path": "/emoteBindings/eat/-",
     "value": "!"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/eat/-",
+    "value": *shout*
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/eat/-",
+    "value": *shouts*
   }
 ]]

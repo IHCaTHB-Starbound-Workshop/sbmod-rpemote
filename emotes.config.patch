@@ -44,6 +44,17 @@
   }
 ],[
   {
+    "op" : "test",
+    "path" : "/emoteBindings/shouting/0",
+    "inverse" : true
+  },
+  {
+    "op" : "add",
+    "path" : "/emoteBindings/shouting",
+    "value" : []
+  }
+],[
+  {
     "op": "add",
     "path": "/emoteBindings/happy/-",
     "value": "*happy*"
@@ -107,6 +118,11 @@
     "op": "add",
     "path": "/emoteBindings/annoyed/-",
     "value": "*angery*"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/annoyed/-",
+    "value": "*confused*"
   },
   {
     "op": "add",
@@ -220,17 +236,17 @@
   },
   {
     "op": "add",
-    "path": "/emoteBindings/eat/-",
+    "path": "/emoteBindings/shouting/-",
     "value": "!"
   },
   {
     "op": "add",
-    "path": "/emoteBindings/eat/-",
+    "path": "/emoteBindings/shouting/-",
     "value": "*shout*"
   },
   {
     "op": "add",
-    "path": "/emoteBindings/eat/-",
+    "path": "/emoteBindings/shouting/-",
     "value": "*shouts*"
   }
 ]]

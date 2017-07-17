@@ -3,6 +3,8 @@
 
 ### vur
 + sad: *feels*, *depressed*
++ annoyed: *confused*
+* changed shout handling
 
 ### v0.1 2017-07-16
 + happy: *happy*

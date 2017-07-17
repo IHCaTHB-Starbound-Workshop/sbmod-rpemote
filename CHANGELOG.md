@@ -2,8 +2,14 @@
 # changelog
 
 ### vur
-+ sad: *feels*, *depressed*
-+ annoyed: *confused*
++ happy: *happy face*
++ sad: *feels*, *depressed*, *sad face*
++ neutral: *neutral face*
++ annoyed: *confused*, *angry face*
++ oh: *surprised face*
++ oooh: *scared face*
++ wink: *winky face*
++ sleep: *sleep*
 * changed shout handling
 
 ### v0.1 2017-07-16

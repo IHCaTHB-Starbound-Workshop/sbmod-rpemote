@@ -61,6 +61,11 @@
   },
   {
     "op": "add",
+    "path": "/emoteBindings/happy/-",
+    "value": "*happy face*"
+  },
+  {
+    "op": "add",
     "path": "/emoteBindings/sad/-",
     "value": "*cries*"
   },
@@ -68,6 +73,11 @@
     "op": "add",
     "path": "/emoteBindings/sad/-",
     "value": "*sad*"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/sad/-",
+    "value": "*sad face*"
   },
   {
     "op": "add",
@@ -83,6 +93,11 @@
     "op": "add",
     "path": "/emoteBindings/neutral/-",
     "value": "*neutral*"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/neutral/-",
+    "value": "*neutral face*"
   },
   {
     "op": "add",
@@ -117,6 +132,11 @@
   {
     "op": "add",
     "path": "/emoteBindings/annoyed/-",
+    "value": "*angry face*"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/annoyed/-",
     "value": "*angery*"
   },
   {
@@ -142,6 +162,11 @@
   {
     "op": "add",
     "path": "/emoteBindings/oh/-",
+    "value": "*surprised face*"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/oh/-",
     "value": "*impressed*"
   },
   {
@@ -156,6 +181,11 @@
   },
   {
     "op": "add",
+    "path": "/emoteBindings/oooh/-",
+    "value": "*scared face*"
+  },
+  {
+    "op": "add",
     "path": "/emoteBindings/wink/-",
     "value": "*wink*"
   },
@@ -163,6 +193,11 @@
     "op": "add",
     "path": "/emoteBindings/wink/-",
     "value": "*winks*"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/wink/-",
+    "value": "*winky face*"
   },
   {
     "op": "add",
@@ -213,6 +248,11 @@
     "op": "add",
     "path": "/emoteBindings/sleep/-",
     "value": "*sleeps*"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/sleep/-",
+    "value": "*sleepy*"
   },
   {
     "op": "add",

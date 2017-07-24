@@ -26,3 +26,8 @@
 + eat: *eat*, *eats*, *nom*, *nomnom*
 + shout: *shout*, *shouts*, !
 + idle: ((, )), **, *idle*
+
+---
+
+@license MIT
+@author IHCaTHB

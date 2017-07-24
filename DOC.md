@@ -21,3 +21,8 @@ idle: ((, )), **
 ## backend
 ### patches
 'emotes.config.patch'
+
+---
+
+@license MIT
+@author IHCaTHB
